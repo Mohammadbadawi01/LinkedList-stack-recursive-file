@@ -1,0 +1,9 @@
+University_2
+120111 Ahmed Nablus 3.5
+120222 Amro Nablus 3.6
+120333 Serin Tulkarm 2.9
+120987 Tala Bethlehem3.1
+120719 Ruba Jerusalem 3.1
+120438 Shadi Jenin 4.0
+120745 Haya Nablus 2.0
+120541 Tala Bethlehem 3.8
